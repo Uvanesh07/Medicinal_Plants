@@ -1,0 +1,9 @@
+(install):
+1) winrar 5.21(32-bit)
+2) Windows Software Development Kit - Windows 10.0.19041.685
+3) Windows SDK AddOn 10.1.0.0
+4) Visual Studio Build Tools 2019 16.11.34
+5) Python Launcher 3.8.6925.0
+6) Python 3.8.1(64-bit) 3.8.1150.0
+7) PyCharm 2021.3.1  213.6461.77
+8) Microsoft Visual Studio Installer 3.6.2122.36397
